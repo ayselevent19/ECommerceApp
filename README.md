@@ -12,3 +12,6 @@
 3. Veritabanı bağlantısını yapılandırın.
 4. Proje klasöründe terminali açın ve `dotnet run` komutunu çalıştırın.
 5. Tarayıcınızda `https://localhost:5001` adresine gidin.
+
+## Veritabanı Bilgileri
+- ECommerceDb.sql dosyasındadır.
