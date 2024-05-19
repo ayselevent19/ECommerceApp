@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\products\\listbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\products\\listbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\ecommerceapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8768E0E-C36F-46C6-B7B8-9487D9FF9541}|ECommerceApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:34:45.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Products\\ListByCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\ListByCategory.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Products\\ListByCategory.cshtml",
+              "RelativeToolTip": "Views\\Products\\ListByCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:27.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:34:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\ECommerceApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:50.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

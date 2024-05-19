@@ -1,0 +1,43 @@
+﻿@model List<ECommerceApp.Models.CartItem>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sepetim</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container">
+        <h2>Sepetim</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Ürün Adı</th>
+                    <th>Adet</th>
+                    <th>Fiyat</th>
+                    <th>Toplam</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price.ToString("C")</td>
+                        <td>@(item.Price * item.Quantity).ToString("C")</td>
+                        <td>
+                            <form asp-controller="Cart" asp-action="RemoveFromCart" method="post">
+                                <input type="hidden" name="productId" value="@item.ProductId" />
+                                <button type="submit" class="btn btn-danger">Sepetten Çıkar</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a asp-controller="Products" asp-action="Index" class="btn btn-primary">Alışverişe Devam Et</a>
+    </div>
+</body>
+</html>
